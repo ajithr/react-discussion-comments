@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-discussion-comments/static/css/main.4022fbae.chunk.css",
+    "main.js": "/react-discussion-comments/static/js/main.3080318f.chunk.js",
+    "main.js.map": "/react-discussion-comments/static/js/main.3080318f.chunk.js.map",
+    "runtime-main.js": "/react-discussion-comments/static/js/runtime-main.e687eb33.js",
+    "runtime-main.js.map": "/react-discussion-comments/static/js/runtime-main.e687eb33.js.map",
+    "static/js/2.c311423a.chunk.js": "/react-discussion-comments/static/js/2.c311423a.chunk.js",
+    "static/js/2.c311423a.chunk.js.map": "/react-discussion-comments/static/js/2.c311423a.chunk.js.map",
+    "static/js/3.bdb27c1b.chunk.js": "/react-discussion-comments/static/js/3.bdb27c1b.chunk.js",
+    "static/js/3.bdb27c1b.chunk.js.map": "/react-discussion-comments/static/js/3.bdb27c1b.chunk.js.map",
+    "index.html": "/react-discussion-comments/index.html",
+    "static/css/main.4022fbae.chunk.css.map": "/react-discussion-comments/static/css/main.4022fbae.chunk.css.map",
+    "static/js/2.c311423a.chunk.js.LICENSE.txt": "/react-discussion-comments/static/js/2.c311423a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e687eb33.js",
+    "static/js/2.c311423a.chunk.js",
+    "static/css/main.4022fbae.chunk.css",
+    "static/js/main.3080318f.chunk.js"
+  ]
+}
